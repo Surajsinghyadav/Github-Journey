@@ -1,6 +1,2 @@
 six
-<<<<<<< HEAD
-Done on dev branch
-=======
 Done on staging branch
->>>>>>> staging
