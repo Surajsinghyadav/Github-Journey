@@ -1,4 +1,2 @@
 six
 Done on staging branch
- 
-galti se mistake (revert check fn)
